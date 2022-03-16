@@ -1,0 +1,10 @@
+db_config:
+  user: 'root'
+  host: 'data.cntq5wwdjvtd.us-east-1.rds.amazonaws.com'
+  db: 'history'
+  password: 'wfEb9AZXfPmg24cDaQz0'
+
+# Кладу апиху от личного бинанса
+binance:
+  api_key: 'YU1kQTCpYyLPCgI81LGole0Wil8qHXqSyQhWOoL7ClF7Qm0uBopgR9sSoAnEWbgS'
+  api_secret: 'slNxg4xtKSGSLYpNJITBYg72NurW6wdxp333BC3LDslSWWvEIhftjeVJgSx3yYFA'
